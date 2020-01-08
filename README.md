@@ -1,2 +1,2 @@
 # promotional-email
-Lids Promo Email
+Promo email I created to showcase my skills and growth in email development
